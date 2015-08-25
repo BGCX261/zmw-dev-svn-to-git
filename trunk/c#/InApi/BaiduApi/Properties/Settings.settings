@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BaiduApi.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="PlaceAPIURL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://api.map.baidu.com/place/search?</Value>
+    </Setting>
+    <Setting Name="GeocoderAPIURL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://api.map.baidu.com/geocoder?</Value>
+    </Setting>
+    <Setting Name="TranslateAPIURL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://openapi.baidu.com/public/2.0/bmt/translate?</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
